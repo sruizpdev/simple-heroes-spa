@@ -1,4 +1,4 @@
-body{
+body {
   padding-botton: 50px;
 }
 .main-container {
@@ -30,4 +30,7 @@ body{
 
 .fadeIn {
   animation-name: fadeIn;
+}
+.img-logo {
+  width: 200px; 
 }
